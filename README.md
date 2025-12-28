@@ -8,6 +8,9 @@ Serverless REST API built on AWS using API Gateway, Lambda, and DynamoDB
 - The architecture follows event-driven and serverless principles, focusing on scalability, cost optimization, and security.
 
 **Architecture Overview:**
+![AWS Serverless REST API Architecture](serverless_api.png)
+
+
 **Traffic Flow :**
 1. Client sends an HTTP request to the API endpoint
 2. Request reaches Amazon API Gateway
